@@ -1,5 +1,5 @@
 - [University](#University)
-- [CS Courses](#CS Courses)
+- [CS Courses](#Courses)
 - [Documentation](#Documentation)
 
 # Study Resources
@@ -19,7 +19,7 @@
 11. [The Recurse Center](https://www.recurse.com/)
 12. [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/)
 
-## CS Courses
+## Courses
 
 ### Data Structure And Algorithm
 
