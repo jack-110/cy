@@ -1,3 +1,4 @@
+- [How To Learn](#How-To-Learn)
 - [University](#University)
 - [CS Courses](#Courses)
   - [Data Structure And Algorithm](#Data-Structure-And-Algorithm)
@@ -5,7 +6,7 @@
 
 # Study Resources
 
-## How To Learn
+## How-To-Learn
 
 1. [Dartmouth Learning Strategies](https://students.dartmouth.edu/academic-skills/learning-resources/learning-strategies)
 2. [Barbare Oakley Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
