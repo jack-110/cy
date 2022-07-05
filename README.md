@@ -1,6 +1,6 @@
 - [University](#University)
 - [CS Courses](#Courses)
-  - [Data Structure And Algorithm](#Data Structure And Algorithm)
+  - [Data Structure And Algorithm](#Data-Structure-And-Algorithm)
 - [Documentation](#Documentation)
 
 # Study Resources
@@ -22,7 +22,7 @@
 
 ## Courses
 
-### Data Structure And Algorithm
+### Data-Structure-And-Algorithm
 
 1. [UC Berkeley-CS61B-Data Structures](http://fa20.datastructur.es/)
    - teach in Java programming language
