@@ -5,6 +5,11 @@
 
 # Study Resources
 
+## How To Learn
+
+1. [Dartmouth Learning Strategies](https://students.dartmouth.edu/academic-skills/learning-resources/learning-strategies)
+2. [Barbare Oakley Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
+
 ## University
 
 1. [MIT University](http://catalog.mit.edu/subjects/6/)
