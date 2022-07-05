@@ -1,2 +1,7 @@
-# CY
-collect study resource and cs study notes.
+# Study Resources
+
+## University
+
+## CS Courses
+
+## Documentation
