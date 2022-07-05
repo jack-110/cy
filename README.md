@@ -1,4 +1,7 @@
-[toc]
+- [University](#University)
+- [CS Courses](#CS Courses)
+  - [Data Structure And Algorithm](#Data Structure And Algorithm)
+- [Documentation](#Documentation)
 
 # Study Resources
 
