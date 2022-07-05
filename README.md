@@ -1,6 +1,5 @@
 - [University](#University)
-- CS Courses
-  - [Data Structure And Algorithm](#Data Structure And Algorithm)
+- [CS Courses](#CS Courses)
 - [Documentation](#Documentation)
 
 # Study Resources
