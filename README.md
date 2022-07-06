@@ -63,8 +63,8 @@
 
 ## Documentation
 
-### Open-Source
+### Open
 
-1. [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
-2. [ACM Software System Award](https://awards.acm.org/software-system)
+1. [ACM Software System Award](https://awards.acm.org/software-system)
+2. [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
 
