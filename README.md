@@ -44,6 +44,7 @@
 3. [MIT-6.006-Introduction to Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/)
 4. [MIT-6.845J-Advanced Algorithms](https://ocw.mit.edu/courses/6-854j-advanced-algorithms-fall-2005/)
 5. [MIT-6.046J-Design and Analysis of Algorithms](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/)
+6. [Yale-CPSC223-Notes on Data Structures and Programming Techniques](http://www.cs.yale.edu/homes/aspnes/classes/223/notes.html)
 
 ### Computer-System
 
@@ -54,6 +55,18 @@
 5. [CMU-15-213-Introduction to Computer Systems](https://www.cs.cmu.edu/~213/index.html)
 6. [MIT-6.004-Computation Structures](https://6004.mit.edu/web/silvina-test)
 
+### Computer-Network
+
+1. [Princeton-COS461-Computer Networks](https://www.cs.princeton.edu/courses/archive/spring19/cos461/)
+2. [Princeton-COS561-Advanced Computer Networks](https://cos561.princeton.systems/index.html)
+3. [Yale-CPSC434-Topics in Network Systems](https://zoo.cs.yale.edu/classes/cs434/cs434-2021-fall/index.shtml)
+4. [Stanford-CS144-Introduction to Computer Networking](https://cs144.github.io/)
+
+### Computer-Security
+
+1. [MIT-6.858-Computer Systems Security](https://ocw.mit.edu/courses/6-858-computer-systems-security-fall-2014/)
+2. [UC Berkeley-CS161-Computer Security](https://su20.cs161.org/)
+
 ### Parallel-Computing
 
 1. [Stanford-CS149-Parallel Computing](https://gfxcourses.stanford.edu/cs149/fall20)
@@ -62,6 +75,17 @@
 4. [CMU-15-418-Parallel Computer Architecture and Programming](http://www.cs.cmu.edu/~418/index.html)
 5. [[Douglas Schmidt-CS891-Advanced Parallel Java Programming](https://www.youtube.com/watch?v=8cRVA0ND_N0&list=PLZ9NgFYEMxp4UHEwQCltQciArqXDyn6Ms&index=1)
 6. [[Douglas Schmidt-CS891-Introduction to Parallel Java Programming](https://www.youtube.com/watch?v=cfjUPcH4dfE&list=PLZ9NgFYEMxp5ZOxpx_RVkkktBMd0S5B6Q&index=1)
+
+### Programming-Language
+
+1. [UW-CSE341-Programming Languages](https://courses.cs.washington.edu/courses/cse341/19sp/#all)
+2. [Brown-CS173-Programming Language](http://cs.brown.edu/courses/cs173/2012/)
+3. [Stanford-CS106L-Standard C++ Programming](http://web.stanford.edu/class/cs106l/)
+
+### S/W
+
+1. [software-design-architecture](https://www.coursera.org/specializations/software-design-architecture#courses)
+2. [PERFORMANCE ENGINEERING OF SOFTWARE SYSTEMS](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/)
 
 ### EE
 
