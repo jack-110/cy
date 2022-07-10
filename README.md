@@ -31,6 +31,11 @@
 
 ## Courses
 
+### Programming-Intro
+
+1. [UC Berkeley-CS61A-Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/sp10/)
+2. [MIT-6.001-Structure and Interpretation of Computer Programs](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/)
+
 ### Data-Structure-And-Algorithm
 
 1. [UC Berkeley-CS61B-Data Structures](http://fa20.datastructur.es/)
@@ -39,6 +44,15 @@
 3. [MIT-6.006-Introduction to Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/)
 4. [MIT-6.845J-Advanced Algorithms](https://ocw.mit.edu/courses/6-854j-advanced-algorithms-fall-2005/)
 5. [MIT-6.046J-Design and Analysis of Algorithms](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/)
+
+### Computer-System
+
+1. [UC Berkeley-CS61C-Great Ideas in Computer Architecture (Machine Structures)](https://inst.eecs.berkeley.edu/~cs61c/su20/)
+2. [UC Berkeley-CS152-Computer Architecture and Engineering](https://inst.eecs.berkeley.edu/~cs152/sp21/)
+3. [UW-CSE352-The Hardware/Software Interface](https://courses.cs.washington.edu/courses/cse351/20su/#)
+4. [Stanford-CS107-Computer Organization & Systems](https://web.stanford.edu/class/cs107/index.html)
+5. [CMU-15-213-Introduction to Computer Systems](https://www.cs.cmu.edu/~213/index.html)
+6. [MIT-6.004-Computation Structures](https://6004.mit.edu/web/silvina-test)
 
 ### Parallel-Computing
 
@@ -56,6 +70,8 @@
 ### Math
 
 1. [MIT-18.01-Single Variable Calculus](https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/)
+1. [UC Berkeley-CS70-Discrete Mathematics and Probability Theory](https://www.eecs70.org/)
+1. [MIT-6.043J-Mathmatics For Computer Science](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)
 
 ### Block-Chain
 
