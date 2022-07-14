@@ -55,12 +55,38 @@
 5. [CMU-15-213-Introduction to Computer Systems](https://www.cs.cmu.edu/~213/index.html)
 6. [MIT-6.004-Computation Structures](https://6004.mit.edu/web/silvina-test)
 
+### OS
+
+1. [Stanford-CS-111-Operating Systems Principles](https://web.stanford.edu/~ouster/cs111-spring21/)
+2. [MIT-6.S081-Introduction to Operating Systems](https://pdos.csail.mit.edu/6.S081/2020/)
+3. [MIT-6.824-Distributed Systems](https://pdos.csail.mit.edu/6.824/)
+4. [CL-Concurrent and Distributed Systems](https://www.cl.cam.ac.uk/teaching/2021/ConcDisSys/)
+5. [UC Berkeley-CS-162-Operating Systems and System Programming](https://inst.eecs.berkeley.edu/~cs162/su20/)
+6. [UC Berkeley-CS-262-Advanced Topics in Computer Systems](https://people.eecs.berkeley.edu/~kubitron/courses/cs262a-F21/index.html)
+7. [WISC-CS-537-Introduction to Operating Systems](https://pages.cs.wisc.edu/~remzi/Classes/537/Fall2021/)
+8. [Cornell-CS-4414-Systems Programming](https://www.cs.cornell.edu/courses/cs4414/2021fa/)
+9. [CS110L-Safety in Systems Programming](https://reberhardt.com/cs110l/spring-2021/)
+10. [Brown-CSCS-0300-Fundamentals of Computer Systems](http://cs.brown.edu/courses/csci0300/2022/index.html)
+
 ### Computer-Network
 
 1. [Princeton-COS461-Computer Networks](https://www.cs.princeton.edu/courses/archive/spring19/cos461/)
 2. [Princeton-COS561-Advanced Computer Networks](https://cos561.princeton.systems/index.html)
 3. [Yale-CPSC434-Topics in Network Systems](https://zoo.cs.yale.edu/classes/cs434/cs434-2021-fall/index.shtml)
 4. [Stanford-CS144-Introduction to Computer Networking](https://cs144.github.io/)
+
+### Database
+
+1. [CMU-15-445-Database Systems](https://15445.courses.cs.cmu.edu/fall2020/)
+2. [CMU-15-721-Advanced Database Systems](https://15721.courses.cs.cmu.edu/spring2020/)
+3. [CMU-18-746-Storage Systems](https://course.ece.cmu.edu/~ece746/index.html)
+4. [UC Berkeley-CS186-Introduction to Database Systems](https://cs186berkeley.net/)
+
+### Compiler
+
+1. [San Jose State University-CMPE 152-Compiler Design](https://www.cs.sjsu.edu/~mak/archive/CMPE152/index.html)
+2. [Stanford-CS143-Compilers](http://web.stanford.edu/class/cs143/)
+3. [Cornell-CS6120-Advanced Compilers Y](https://www.cs.cornell.edu/courses/cs6120/2020fa/)
 
 ### Computer-Security
 
@@ -91,6 +117,10 @@
 
 1. [UC Berkeley-EECS151-Introduction to Digital Design and Integrated Circuits](https://inst.eecs.berkeley.edu/~eecs151/sp22/)
 
+### OOP
+
+1. [Object Oriented Technology](https://condor.depaul.edu/dmumaugh/OOT/)
+
 ### Math
 
 1. [MIT-18.01-Single Variable Calculus](https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/)
@@ -107,4 +137,11 @@
 
 1. [ACM Software System Award](https://awards.acm.org/software-system)
 2. [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
+
+## Blog
+
+1. [Julia Evans](https://jvns.ca/)
+2. [阮一峰](http://www.ruanyifeng.com/home.html)
+3. [Henrik warn](https://henrikwarne.com/)
+4. [Netflix](https://netflixtechblog.com/)
 
